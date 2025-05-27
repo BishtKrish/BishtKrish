@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently learning *Website Responsiveness*
 
-- 🌱 I’m currently learning *C++ with DSA and FULL STACK WEB DEVELOPMENT using MERN stack*
+- 🌱 I’m currently learning  DSA with Java and FULL STACK WEB DEVELOPMENT using MERN stack*
 
-- 💬 Ask me about *HTML CSS, github*
+- 💬 Ask me about *HTML CSS,JavaScript , React Js github*
 
 - 📫 How to reach me *krishnasb2005@gmail.com*
 
